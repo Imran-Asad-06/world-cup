@@ -247,7 +247,7 @@ body {
     .half-width img {
         width: 86%;
         height: 57%;
-        margin-bottom: 1px;
+        margin-bottom: 0px;
         margin-left: 44px;
     }
 
